@@ -20,7 +20,7 @@
 <aside class="bg-gray-900 p-3 shadow-sm" style="width: 250px; min-height: 100vh;">
   <ul class="nav flex-column">
     <li class="nav-item mb-2">
-      <a class="nav-link d-flex align-items-center text-dark px-3 py-2 rounded hover-effect" href="#">
+      <a class="nav-link d-flex align-items-center text-dark px-3 py-2 rounded hover-effect" href="{{route('dashboard')}}">
         <i class="bi bi-speedometer2 me-2"></i> Dashboard
       </a>
     </li>
